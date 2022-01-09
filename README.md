@@ -22,6 +22,3 @@ Search Properties
 Profile Module
 Logout
 Rating/Feedback
-
-DOCUMENTATION LINK:
-https://1drv.ms/p/s!AkEjKZ-KXi67lggypTY-b56En0IL?e=PyKWbh
