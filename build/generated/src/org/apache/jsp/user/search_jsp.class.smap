@@ -1,0 +1,24 @@
+SMAP
+search_jsp.java
+JSP
+*S JSP
+*F
++ 0 search.jsp
+user/search.jsp
++ 1 cdn.jsp
+user/../common/cdn.jsp
++ 2 header.jsp
+user/common/header.jsp
+*L
+1,10:58
+1#1,6:68
+10#0,6:74
+1#2,31:80
+32,6:112
+37,2:118
+39:120,3
+40,5:123
+45,2:129
+46,13:131
+15#0,79:143
+*E

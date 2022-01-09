@@ -1,0 +1,24 @@
+SMAP
+mainindex_jsp.java
+JSP
+*S JSP
+*F
++ 0 mainindex.jsp
+mainindex.jsp
++ 1 cdn.jsp
+common/cdn.jsp
++ 2 header.jsp
+common/header.jsp
++ 3 footer.jsp
+common/footer.jsp
+*L
+1,12:57
+1#1,6:69
+12#0,5:75
+1#2,28:80
+29,9:109
+37,9:118
+16#0,13:126
+1#3,12:139
+28#0,3:151
+*E
